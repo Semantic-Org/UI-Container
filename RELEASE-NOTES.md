@@ -1,3 +1,8 @@
+#### Bugs
+
+- **Container** - Fix issue with `fluid container` being `100% + gutter` at mobile resolution (causing overflow)
+- **Grid / Container** - `ui relaxed grid container` and `ui very relaxed grid container` will now all render at same container width
+
 ### Version 2.0.4 - July 17, 2015
 
 - **Sticky** - Fixed `sticky` content jumping from `fixed` to `bount bottom` when scroll position has surpassed bottom of container during page refresh.
