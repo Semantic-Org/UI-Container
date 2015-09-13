@@ -1,3 +1,7 @@
+### Version 2.1.4 - Sep 13, 2015
+
+- **Menu** - Fixed issue where `right menu` was not floating correctly inside a `menu > container` on mobile [#2969](https://github.com/Semantic-Org/Semantic-UI/issues/2969)
+
 #### Bugs
 
 - **Container** - Fix issue with `fluid container` being `100% + gutter` at mobile resolution (causing overflow)
