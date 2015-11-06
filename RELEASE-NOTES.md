@@ -1,3 +1,7 @@
+### Version 2.1.5 - Nov 1, 2015
+
+- **Sticky** - Fixes bug where sticky would stick at incorrect times when using a different scroll container than `body` and scrollTop is not 0 on page load.
+
 ### Version 2.1.4 - Sep 13, 2015
 
 - **Menu** - Fixed issue where `right menu` was not floating correctly inside a `menu > container` on mobile [#2969](https://github.com/Semantic-Org/Semantic-UI/issues/2969)
