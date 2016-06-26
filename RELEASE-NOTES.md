@@ -13,7 +13,7 @@
 
 ### Version 2.0.4 - July 17, 2015
 
-- **Sticky** - Fixed `sticky` content jumping from `fixed` to `bount bottom` when scroll position has surpassed bottom of container during page refresh.
+- **Sticky** - Fixed `sticky` content jumping from `fixed` to `bound bottom` when scroll position has surpassed bottom of container during page refresh.
 - **Sticky** - Sticky no longer uses `bottomPadding` to determine bottom edge of container.
 
 ### Version 2.0.0 - June 30, 2015

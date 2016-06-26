@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-container',
   summary : 'Semantic UI - Container: Single component release',
-  version : '2.1.7',
+  version : '2.2.0',
   git     : 'git://github.com/Semantic-Org/UI-Container.git',
 });
 
