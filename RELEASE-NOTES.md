@@ -1,3 +1,7 @@
+### Version 2.2.5 - October, 27, 2016
+
+-  **Sticky** - Adds `container` setting. This can be used to specify the offsetParent of the sticky element and avoid having to calculate on initialization (improving performance)
+
 ### Version 2.1.5 - Nov 1, 2015
 
 - **Sticky** - Fixes bug where sticky would stick at incorrect times when using a different scroll container than `body` and scrollTop is not 0 on page load.
