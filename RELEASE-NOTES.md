@@ -1,3 +1,7 @@
+### Version 2.2.11 - July 11, 2017
+
+- **Sticky** - Fixed an issue where `ui sticky` used with a percentage based width would not resize properly if the content size of container changed when "stuck" [#4360](https://github.com/Semantic-Org/Semantic-UI/issues/4360)
+
 ### Version 2.2.5 - October, 27, 2016
 
 -  **Sticky** - Adds `container` setting. This can be used to specify the offsetParent of the sticky element and avoid having to calculate on initialization (improving performance)
