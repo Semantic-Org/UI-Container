@@ -1,4 +1,4 @@
-### Version 2.3.1 - Mar 19, 2018
+### Version 2.3.1 - Mar 18, 2018
 
 > A general solution will most likely require branching code for IE11 which will disable flex (as IE11 doesnt correctly implement the latest spec for [absolute positioned flex containers](https://developers.google.com/web/updates/2016/06/absolute-positioned-children)).
 
