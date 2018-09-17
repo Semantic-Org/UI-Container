@@ -1,3 +1,7 @@
+### Version 2.4.0 - Sep 17, 2018
+
+- **Modal/Dimmer** - Modals and dimmers now include a new setting `useFlex` which defaults to `auto`. Modals and dimmers will automatically revert to using non-flex layouts when there may be layout issues with using flexbox. Modals will fall back to JS position when `detachable: false` is used or with IE11/Edge (Absolutely positioned elements inside flex containers in IE behave differently).
+
 ### Version 2.3.1 - Mar 18, 2018
 
 > A general solution will most likely require branching code for IE11 which will disable flex (as IE11 doesnt correctly implement the latest spec for [absolute positioned flex containers](https://developers.google.com/web/updates/2016/06/absolute-positioned-children)).
