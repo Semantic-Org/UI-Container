@@ -110,7 +110,8 @@
 
 /* Fluid */
 .ui.fluid.container {
-  width: 100%;
+  width: 95%;
+  padding-left: 2.5%;
 }
 
 
